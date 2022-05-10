@@ -1,0 +1,44 @@
+body {
+    background: rgb(69, 69, 255);
+    color: whitesmoke;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+button {
+    height: 60px;
+    width: 60px;
+    font-size: 30px;
+}
+
+#res{
+    padding: 5px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background: whitesmoke;
+    height: 35px;
+    width: 240px;
+    font-size: 30px;
+    color: black
+}
+
+#res2 {
+    padding: 5px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background: whitesmoke;
+    height: 35px;
+    width: 370px;
+    font-size: 30px;
+    color: black
+}
+
+section {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
